@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>YOLO Object Detection</title>
+</head>
+<body>
+    <h2>이미지 업로드</h2>
+
+    <form method="post" enctype="multipart/form-data">
+        {% csrf_token %}
+        <input type="file" name="image">
+        <button type="submit">탐지</button>
+    </form>
+
+    {% if result_img %}
+        <h3>결과</h3>
+        <img src="{{ result_img }}" width="600">
+    {% endif %}
+</body>
+</html>
