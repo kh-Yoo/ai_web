@@ -19,4 +19,4 @@ Python
 
 ## 4. 실행 화면
 
-![ezgif-83b93faa46b013c7](https://github.com/user-attachments/assets/ce42af6c-03d8-4191-8e98-bb943b4df44b)
+![YOLO Object Detection - Chrome 2025-12-29 12-58-25](https://github.com/user-attachments/assets/8490e4c4-8f7c-42d7-8a42-39963cff93f8)
