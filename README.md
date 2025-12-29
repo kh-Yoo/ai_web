@@ -19,3 +19,4 @@ Python
 
 ## 4. 실행 화면
 
+![ezgif-83b93faa46b013c7](https://github.com/user-attachments/assets/ce42af6c-03d8-4191-8e98-bb943b4df44b)
